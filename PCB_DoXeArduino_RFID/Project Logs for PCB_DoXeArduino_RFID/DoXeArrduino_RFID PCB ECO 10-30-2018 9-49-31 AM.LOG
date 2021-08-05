@@ -1,0 +1,83 @@
+Removed Pin From Net: NetName=SERVO Pin=A1-5
+Removed Pin From Net: NetName=D6 Pin=A1-22
+Removed Pin From Net: NetName=D7 Pin=A1-23
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=VCC Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=VCC Pin=JDC1-1
+Change Component Designator: OldDesignator=A1 NewDesignator=A2
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Added Component: Designator=A1(A4988)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(CP1.5/3.4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Description 1"; Value = "2200uF-3300uF/6,3V - 1000uF-2200uF/10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = "1000uF/16V - 470uF => 1000uF/25V - 100uF/100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 3"; Value = "330uF>470uF/35V_220uF>470uF/50V_10uF>22uF/250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 4"; Value = "220uF => 330uF/63V - 10uF =>33uF/160 - 200V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 5"; Value = "4,7uF>10uF/250V_3,3uF>10uF/400V - 2,2uF>4,7uF/450V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1000uF/16V"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(DIP8/W0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Copyright by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "24Cxx"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HEADER 4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=EN Pin=A1-1
+Added Pin To Net: NetName=GND Pin=A1-9
+Added Pin To Net: NetName=VCC Pin=A1-10
+Added Pin To Net: NetName=GND Pin=A1-15
+Added Pin To Net: NetName=D6 Pin=A2-5
+Added Pin To Net: NetName=D7 Pin=A2-6
+Added Pin To Net: NetName=EN Pin=A2-10
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=GND Pin=IC1-2
+Added Pin To Net: NetName=GND Pin=IC1-3
+Added Pin To Net: NetName=GND Pin=IC1-4
+Added Pin To Net: NetName=VCC Pin=IC1-8
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=12V Pin=A1-16
+Added Pin To Net: NetName=12V Pin=C2-1
+Added Pin To Net: NetName=12V Pin=JDC1-1
+Added Net: Name=12V
+Added Pin To Net: NetName=DIR Pin=A1-8
+Added Pin To Net: NetName=DIR Pin=A2-4
+Added Net: Name=DIR
+Added Pin To Net: NetName=NetA1_5 Pin=A1-5
+Added Pin To Net: NetName=NetA1_5 Pin=A1-6
+Added Net: Name=NetA1_5
+Added Pin To Net: NetName=NetA1_11 Pin=A1-11
+Added Pin To Net: NetName=NetA1_11 Pin=P1-4
+Added Net: Name=NetA1_11
+Added Pin To Net: NetName=NetA1_12 Pin=A1-12
+Added Pin To Net: NetName=NetA1_12 Pin=P1-3
+Added Net: Name=NetA1_12
+Added Pin To Net: NetName=NetA1_13 Pin=A1-13
+Added Pin To Net: NetName=NetA1_13 Pin=P1-2
+Added Net: Name=NetA1_13
+Added Pin To Net: NetName=NetA1_14 Pin=A1-14
+Added Pin To Net: NetName=NetA1_14 Pin=P1-1
+Added Net: Name=NetA1_14
+Added Pin To Net: NetName=SCL Pin=A2-23
+Added Pin To Net: NetName=SCL Pin=IC1-6
+Added Pin To Net: NetName=SCL Pin=R1-1
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=A2-22
+Added Pin To Net: NetName=SDA Pin=IC1-5
+Added Pin To Net: NetName=SDA Pin=R2-1
+Added Net: Name=SDA
+Added Pin To Net: NetName=STEP Pin=A1-7
+Added Pin To Net: NetName=STEP Pin=A2-7
+Added Net: Name=STEP
+Added Member To Class: ClassName=DoXeArduino_RFID Member=Component A2 Arduino Nano
+Added Member To Class: ClassName=DoXeArduino_RFID Member=Component IC1 24Cxx
+Added Member To Class: ClassName=DoXeArduino_RFID Member=Component P1 HD4
+Added Member To Class: ClassName=DoXeArduino_RFID Member=Component R1 1k
+Added Member To Class: ClassName=DoXeArduino_RFID Member=Component R2 1k
+Added Room: Name=DoXeArduino_RFID

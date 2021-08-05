@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=C3 Old Footprint=JP7-C1T New Footprint=JP7-C1C
+Added Pin To Net: NetName=NetA1_7 Pin=A1-7
+Added Pin To Net: NetName=NetA1_7 Pin=C3-6
+Added Net: Name=NetA1_7
+Added Pin To Net: NetName=NetA1_8 Pin=A1-8
+Added Pin To Net: NetName=NetA1_8 Pin=C3-5
+Added Net: Name=NetA1_8
+Added Pin To Net: NetName=NetA1_9 Pin=A1-9
+Added Pin To Net: NetName=NetA1_9 Pin=C3-4
+Added Net: Name=NetA1_9
+Added Pin To Net: NetName=NetA1_10 Pin=A1-10
+Added Pin To Net: NetName=NetA1_10 Pin=C3-3
+Added Net: Name=NetA1_10
+Added Room: Name=DoXeArduino_RFID

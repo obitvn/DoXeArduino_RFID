@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=D6 Pin=A1-21
+Removed Pin From Net: NetName=D5 Pin=A1-22
+Added Pin To Net: NetName=D5 Pin=A1-21
+Added Pin To Net: NetName=D6 Pin=A1-22
+Added Room: Name=DoXeArduino_RFID

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=D6 Pin=A2-5
+Removed Pin From Net: NetName=D7 Pin=A2-6
+Change Component Footprint: Designator=A1 Old Footprint=FileName=OBIT_TESLA:\PCBLib\4.pcblib|Footprint=A4988 New Footprint=A4988
+Change Component Footprint: Designator=A2 Old Footprint=FileName=OBIT_TESLA:\PCBLib\7.pcblib|Footprint=Arduino Nano New Footprint=Arduino Nano
+Added Pin To Net: NetName=D7 Pin=A2-5
+Added Pin To Net: NetName=D6 Pin=A2-6
+Added Room: Name=DoXeArduino_RFID

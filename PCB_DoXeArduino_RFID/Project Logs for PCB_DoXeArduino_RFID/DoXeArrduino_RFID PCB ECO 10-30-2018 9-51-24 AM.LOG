@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=VCC Pin=C1-2
+Removed Member From Class: ClassName=DoXeArduino_RFID Member=C1
+Added Member To Class: ClassName=DoXeArduino_RFID Member=Component A1 A4988
+Added Member To Class: ClassName=DoXeArduino_RFID Member=Component C2 1000uF/16V
+Added Room: Name=DoXeArduino_RFID
